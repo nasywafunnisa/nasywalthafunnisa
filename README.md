@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nasywa ALthafunnisa</h1>
+<h1 align="center">Hi 👋, I'm Nasywa Althafunnisa</h1>
 <h3 align="center">A student of Padang State University</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/bf947fe1-1a4a-4d0e-8071-4cc20d41727b">
 
