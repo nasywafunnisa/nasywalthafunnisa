@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nasywa ALthafunnisa</h1>
 <h3 align="center">A student of Padang State University</h3>
-<img align="right" alt="coding" width="200" src="https://github.com/user-attachments/assets/bf947fe1-1a4a-4d0e-8071-4cc20d41727b">
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/bf947fe1-1a4a-4d0e-8071-4cc20d41727b">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasywalthafunnisa&label=Profile%20views&color=0e75b6&style=flat" alt="nasywalthafunnisa" /> </p>
 
